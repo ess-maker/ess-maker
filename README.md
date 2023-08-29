@@ -15,11 +15,10 @@
 
 
 ## Programming Languages
-<img src = 'https://github.com/123usef/123usef/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/>
- <img src = 'https://github.com/123usef/123usef/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/c--4.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/>
+<img src = 'https://github.com/123usef/123usef/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/cpp.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>
  
  ## Technologies I Use
- <img src = 'https://github.com/123usef/123usef/blob/main/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/git.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/react.svg' width='33'/>
+  <img src = 'https://github.com/123usef/123usef/blob/main/images/git.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/react.svg' width='33'/>
  
  ## Who am I?
  ```python
