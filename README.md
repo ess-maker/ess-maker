@@ -15,9 +15,9 @@
 
 
 ## Programming Languages
-<img src = 'https://github.com/123usef/123usef/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/cpp.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>
  
  ## Technologies I Use
+  <img src = 'https://github.com/123usef/123usef/blob/main/images/javascript' width='30'/>
   <img src = 'https://github.com/123usef/123usef/blob/main/images/git.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/react.svg' width='33'/>
  
  ## Who am I?
