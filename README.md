@@ -11,13 +11,6 @@
 ## :computer: Technologies I Love
 * Frontend 
 * reactjs
-
-
-
-## Programming Languages
-<img src="https://github.com/123usef/123usef/blob/main/images/javascript.png" width="30px" alt="JavaScript"> 
- ## Technologies I Use
-  <img src = 'https://github.com/123usef/123usef/blob/main/images/git.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/react.svg' width='33'/>
  
  ## Who am I?
  
@@ -47,7 +40,7 @@ class WhoAmI {
   }
   
   Ambitions() {
-  
+ 
     Mastering Frontend Technologies (Studyhard);
       }
 }
