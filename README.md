@@ -22,21 +22,32 @@
  
  ## Who am I?
 class WhoAmI {
+
   constructor() {
+  
     this.user = 'Hamza Abd Rahim';
+    
     this.current_work = 'Front end developer (morning)- Front end developer (Night)';
+    
     this.hobbies = [
+    
       'Gym',
+      
       'Learning new technolgy',
+      
       'Reading',
+      
     ];
+    
   }
   
   getCity() {
+  
     return 'Setif, Algeria';
   }
   
   Ambitions() {
+  
     Mastering Frontend Technologies (Studyhard);
       }
 }
