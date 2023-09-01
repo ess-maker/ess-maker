@@ -15,33 +15,29 @@
 
 
 ## Programming Languages
+  <img src = 'https://github.com/123usef/123usef/blob/main/images/javascript' width='30'/>
  
  ## Technologies I Use
-  <img src = 'https://github.com/123usef/123usef/blob/main/images/javascript' width='30'/>
   <img src = 'https://github.com/123usef/123usef/blob/main/images/git.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/react.svg' width='33'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Yousif mohamed'
-		current_work = 'Full Stack instructor (morning)- full stack developer (Night)'
-		hobbies = [
-				'Gym',
-				'Learning new things ',
-				'Reading'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Alexandria_Egypt()
-	
-	def Ambitions():
-		initiateStartup( MARKETSTUDY marketStudy )
-		Travel()
-		BeingHistoricalLeader()
-		
-	
+class WhoAmI {
+  constructor() {
+    this.user = 'Hamza Abd Rahim';
+    this.current_work = 'Front end developer (morning)- Front end developer (Night)';
+    this.hobbies = [
+      'Gym',
+      'Learning new technolgy',
+      'Reading',
+    ];
+  }
+  
+  getCity() {
+    return 'Setif, Algeria';
+  }
+  
+  Ambitions() {
+    Mastering Frontend Technologies (Studyhard);
+      }
+}
  ```
- 
-## Current Works
- * Breaking into ML !!
