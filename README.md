@@ -4,7 +4,7 @@
 
 
 ![Linkedin Badge](https://img.shields.io/badge/-hamza%20abdrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamza-Abdrahim-450795157/)
-![Gmail Badge](https://img.shields.io/badge/-hamza%20abdrahim-blue?style=flat-square&logo=gmail&logoColor=red&link=essh4014@gmail.com/)
+![Gmail Badge](https://img.shields.io/badge/-hamza%20abdrahim-white?style=flat-square&logo=gmail&logoColor=red&link=essh4014@gmail.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123usef" alt="123Usef" /> </p>
 
