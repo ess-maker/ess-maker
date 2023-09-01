@@ -3,7 +3,7 @@
 <h1>Welcome To My Reapositori ! </h1> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yousif%20Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamza-Abdrahim-450795157/)](https://www.linkedin.com/in/youssif-mohamed-450795157/)
+[![Linkedin Badge](https://img.shields.io/badge/-hamza%20abdrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Hamza-Abdrahim-450795157/)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123usef" alt="123Usef" /> </p>
 
 <div style="text-align: right">Programming in the Kitchen , with delicous recipes 🤩 🥳 </div>
